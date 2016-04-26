@@ -1,7 +1,7 @@
 
 <Module>
-<ModulePrefs title="hello world example"/>
+<ModulePrefs title="Office Ride"/>
 <Content type="html">
-<![CDATA[ Hello, world! ]]>
+<![CDATA[ Hello, DDC Hackers! ]]>
 </Content>
 </Module>
